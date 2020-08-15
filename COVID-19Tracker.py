@@ -1,5 +1,4 @@
 ##########  COVID-19 Tracker  ##########
-##########  Hack for Africa: A Microsoft Challenge  ##########
 
 import pickle
 
